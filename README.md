@@ -1,2 +1,2 @@
 # word_dearch
-a word_search_program
+データベースから検索ワードに該当するセンテンスを引っ張ってくるpythonプログラムです
